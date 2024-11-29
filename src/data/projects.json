@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Deepesh Pawar",
+    "imageSrc": "projects/project.png",
+    "description": "I had the pleasure of working with Veena during her time at Accenture, where her contributions were pivotal in achieving an impressive 88% accuracy in real-time customer data management. She demonstrated exceptional expertise in Oracle Customer Data Management, skillfully handling stakeholder data and employing advanced data analysis techniques using SQL. Veena is a colleague who naturally earns trust and respect. Her consistent ability to deliver high-quality results, even under tight deadlines, showcases her reliability and dedication. She excels at navigating complex challenges, often providing effective solutions that maximize outcomes—qualities that make her an invaluable member of any team. Beyond her technical skills, Veena’s positive attitude, humility, and sense of purpose make her a pleasure to work with. Her collaborative spirit and professionalism enhance the environment around her. I confidently recommend Veena for any role that demands expertise, leadership, and a commitment to excellence.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Pratiksha Bansode",
+    "imageSrc": "projects/project.png",
+    "description": "Working with Veena at Accenture has been a truly rewarding experience. She has a remarkable talent for tackling complex challenges, devising innovative solutions, and ensuring that projects stay on course. Her dedication to achieving excellence and her determination to go above and beyond to guarantee success have always stood out to me. What truly sets Veena apart is her collaborative spirit. She hWorking with Veena at Accenture has been a truly rewarding experience. She has a remarkable talent for tackling complex challenges, devising innovative solutions, and ensuring that projects stay on course. Her dedication to achieving excellence and her determination to go above and beyond to guarantee success have always stood out to me. What truly sets Veena apart is her collaborative spirit. She has a unique ability to make everyone around her feel appreciated and motivated, fostering a team environment that is both highly productive and enjoyable. Her exceptional people management skills have left a lasting impact, particularly in streamlining workflows and helping teams meet their objectives efficiently.I can confidently say that Veena is an asset to any team. Her professionalism, creativity, and positive outlook are unparalleled, and I feel fortunate to have had the opportunity to work alongside her. Any team would benefit immensely from her expertise and uplifting presence.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Payal Paygude",
+    "imageSrc": "projects/project.png",
+    "description": "I had the privilege of working with Veena on our final engineering project during graduation last year, and her contributions were critical to the team’s success. From brainstorming innovative designs to resolving last-minute technical issues, she consistently demonstrated exceptional technical expertise and a sharp problem-solving mindset. For instance, her input was instrumental in fine-tuning the robot's coding and mechanical systems, which improved overall performance by 20%. What impressed me most was her ability to stay calm and focused, even under intense pressure. During critical moments—like preparing for a high-stakes robotics competition where time was limited—Veena’s strategic thinking and creativity shone through. Her innovative strategies and meticulous attention to detail helped us secure a top 3 position among 50 participating teams. Veena’s collaborative spirit also set her apart. She was always approachable, supportive, and ready to take initiative whenever the situation demanded. Whether leading a task or assisting others, she fostered an environment of trust and motivation, making her an exceptional teammate. It was a pleasure to work alongside her, and I have no doubt she will achieve remarkable success in the future. With her technical expertise, dedication, and ability to excel under pressure, Veena is poised to make a significant impact wherever she goes.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Jayakrishnan K M",
+    "imageSrc": "projects/project.png",
+    "description": "Working with Veena as a crowdfunding intern at Muskurahat Foundation was an exceptional experience. From the very beginning, her enthusiasm for the cause and her natural ability to connect with people made her stand out. Whether it was reaching out to potential donors, generating creative fundraising ideas, or navigating through obstacles, Veena tackled every task with relentless energy and determination. What truly impressed me was her ability to combine professionalism with empathy—two qualities that are crucial in the social impact space. She not only met her fundraising goals but exceeded them by 30%, significantly contributing to our mission. Beyond just hitting targets, Veena inspired others to get involved and take ownership of the cause, making a tangible difference in our efforts. Veena was also an incredible team player. Her positive attitude and constant support made every brainstorming session and campaign planning meeting both productive and enjoyable. She helped organize and execute multiple successful campaigns, raising awareness for over 1,000 beneficiaries. I feel fortunate to have worked with her, and I’m confident she will continue to make a meaningful impact wherever she goes. Her combination of dedication, creativity, and empathy will undoubtedly drive success in any endeavor.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

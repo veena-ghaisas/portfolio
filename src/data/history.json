@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Application Development Associate",
+    "organisation": "Accenture",
+    "startDate": "Apr, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": ["Experienced in Oracle CDM modules with a strong focus on data governance and quality standards.", 
+                    "Adept at handling customer data processes, includingprofiling, cleansing, and enrichment.",
+                    "Gained practical knowledge of Groovy Script and ensured resolution of data issues.",
+                    "Conducted training to enhance team accuracy and improve system adoption.",
+                    "Effectively collaborated with technical and non-technical teams.",
+                    "Supported new employee onboarding and worked closely with the global onboarding team."],
+    "imageSrc": "history/accenture.png"
+  }
+]

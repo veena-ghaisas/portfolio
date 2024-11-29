@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Groovy",
+    "imageSrc": "skills/groovy.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "Word",
+    "imageSrc": "skills/word.png"
+  },
+  {
+    "title": "Oracle ERP",
+    "imageSrc": "skills/oracle.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  }
+]
